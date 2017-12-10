@@ -1,4 +1,4 @@
-# github-project
+# A simple splash page app or template
 
 > A Vue.js project
 
